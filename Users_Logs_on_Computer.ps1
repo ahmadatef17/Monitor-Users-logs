@@ -6,7 +6,7 @@ $koko 		= $Env:ComputerName				<# Variable Contain Computer Name #>
 $srv_Directory 	= "192.168.24.157"				<# Variable Contain server address, Where you put your logs files #>
 $logfile 	= "\\$srv_Directory\D$\logs\PC_logs.txt"	<# Variable Contain Log file path #>
 $flagfile 	= "\\$srv_Directory\D$\logs\Devices.txt"	<# Variable Contain flags file path #>
-$no_of_logons 	= 10						<# number of logon and logoff you want to get collecte d#>
+$no_of_logons 	= 10						<# number of logon and logoff you want to get collecte #>
 
 <# if flags file does not exsist, create it #>
 if(!(Test-Path $flagfile))
