@@ -1,7 +1,7 @@
 # Monitor-Users-logs
 <dl>
         <dt>📂 File1 : 'Domain Users logs into Domain Computers.ps1'</dt>
-        <dd>This Powershell Script is made to Monitor whenever any Domain user login to any Domain Computer  
+        <dd>This Powershell Script is made to Monitor whenever any Domain user logon to any Domain Computer  
             
  through Group Policy Object (GPO) to write in log file that have the data similar to the following form :  </dd>
         
