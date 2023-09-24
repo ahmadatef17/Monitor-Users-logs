@@ -15,3 +15,10 @@ Your-Domain\User1 | Logon  | 9/19/2023 8:30:48 AM | Computer1  |   9/19/2023 2:0
                 
  if this User data was collected this month once, Then do not collect it again.</dd>
 </dl>
+
+
+<dd> 📄 Note : This Code only collect Domain Users Logs on Domain Computers,
+
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;Not from computers outside the Domain.</dd>
+
+📜 Credits : 
