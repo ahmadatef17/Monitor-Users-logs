@@ -12,7 +12,7 @@ $no_of_logons 	= 10						<# number of logon and logoff you want to get collect, 
 if(!(Test-Path $flagfile))
 { New-Item -ItemType "file" -Path $flagfile }
 
-[bool] $compFlagVal = 0						<# Boolean (True,False) Variable to tell that this computer is already  on our log file #>
+[bool] $compFlagVal = 0						<# Boolean (True,False) Variable to tell that this computer is already on our log file #>
 $compFlagStr 	= Select-String -Path $flagfile -pattern $koko	<# Variable to search in flags file for the word and print it if exist #>
 
 <# If My flag file Contains that ComputerName to print "True" ~ 1 or "false" ~ 0 #>
