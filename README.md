@@ -11,7 +11,7 @@ Your-Domain\User1 | Logon  | 9/19/2023 8:30:48 AM | Computer1  |   9/19/2023 2:0
 </dl>
 <dl>
         <dt>📂 File2 : 'Domain Users Logs on Computers 'with time limit'.ps1'</dt>
-        <dd>This Powershell Script is the same as above file except that this code set a time limit
+        <dd>This Powershell Script is the same as above file except that this code set a time limit <em>for example :</em>
                 
- if this User data is collected for example this month once then do not collect it again.</dd>
+ if this User data was collected this month once, Then do not collect it again.</dd>
 </dl>
