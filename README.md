@@ -30,4 +30,8 @@ Your-Domain\User1 | Logon  | 9/19/2023 8:30:48 AM | Computer1  |   9/19/2023 2:0
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;Not from computers outside the Domain.</dd>
 
-📜 Credits : 
+📜 Credits : https://adamtheautomator.com/get-winevent/<br>
+
+https://theitbros.com/get-last-logged-on-user/<br>
+https://community.spiceworks.com/topic/2025022-find-last-user-logged-into-a-machine-via-powershell<br>
+https://serverfault.com/questions/877955/how-to-identify-the-last-logged-in-user-in-windows-7-windows-10<br>
