@@ -1,4 +1,4 @@
-<# God Willing, this program will Bring Computer Last 10 Users Accessed Active Computer #>
+<# God Willing, this program will Bring Computer Last User Accessed Active Computer #>
 <# God Willing, this will be used in GPMC, (Find Active, Apply program) #>
 
 <# Variables Declaration #>
