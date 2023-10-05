@@ -1,4 +1,4 @@
-# Monitor-Users-logs
+# Monitor-logs-on-Domain-Computers
 <dl>    
         <picture>
           <img alt="Monitor logs on Domain computers" src="https://i.imgur.com/jn2p7Mj.png">
