@@ -9,6 +9,12 @@ User      |         Action | Time                 | Computer   |   TimeCommandRu
 ----      |         ------ | ----                 | --------   |   --------------      
 Your-Domain\User1 | Logon  | 9/19/2023 8:30:48 AM | Computer1  |   9/19/2023 2:01:23 PM
 </dl>
+
+> [!NOTE]<br>
+> You MUST edit the script by your values of those variables :<br><br>
+> $srv_Directory : &ensp; server IP Address or Server Name, Where you put your logs files.<br>
+> $logfile :  &ensp; The Log Path, The Log file.<br>
+
 <dl>
         <dt>📂 File2 : 'Domain Users Logs on Computers 'with time limit'.ps1'</dt>
         <dd>This Powershell Script is the same as above file except that this code set a time limit <em>for example :</em>
